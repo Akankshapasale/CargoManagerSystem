@@ -119,3 +119,5 @@ C:\Users\ASADASHI\source\repos\CargoManagerSystem1\CargoManagerSystem\obj\Debug\
 C:\Users\ASADASHI\source\repos\CargoManagerSystem1\CargoManagerSystem\obj\Debug\CargoManagerSystem.Migrations.first.resources
 C:\Users\ASADASHI\source\repos\CargoManagerSystem1\CargoManagerSystem\obj\Debug\CargoManagerSystem.Migrations.second.resources
 C:\Users\ASADASHI\source\repos\CargoManagerSystem1\CargoManagerSystem\obj\Debug\CargoManagerSystem.Migrations.third.resources
+C:\Users\ASADASHI\source\repos\CargoManagerSystem1\CargoManagerSystem\obj\Debug\CargoManagerSystem.Migrations.cargomanagerdb.resources
+C:\Users\ASADASHI\source\repos\CargoManagerSystem1\CargoManagerSystem\obj\Debug\CargoManagerSystem.Migrations.cargomanagerdb1.resources

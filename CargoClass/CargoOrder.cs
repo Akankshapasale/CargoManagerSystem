@@ -15,6 +15,17 @@ namespace CargoClass
         public string OrderNumber { get; set; }
       //  public string Status { get; set; }
 
+        public string CustomerName { get; set; }
+        public string Destination { get; set; }
+        [Required(ErrorMessage = "Pickup Location is required.")]
+        public string PickupLocation { get; set; } // Add PickupLocation
+        public string DropLocation { get; set; } // Add DropLocation
+        public DateTime PickupDate { get; set; }
+
+        public DateTime EstimatedDeliveryDate { get; set; }
+
+        public string Status { get; set; }
+
         [Required(ErrorMessage = "Cargo Type is required.")]
         public string CargoType { get; set; }
 

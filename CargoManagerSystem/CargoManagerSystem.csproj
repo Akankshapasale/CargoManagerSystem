@@ -182,6 +182,8 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AdministratorsController.cs" />
+    <Compile Include="Controllers\CustomersController.cs" />
     <Compile Include="Controllers\EmployeesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -203,6 +205,14 @@
     <Compile Include="Migrations\202503080821382_third.cs" />
     <Compile Include="Migrations\202503080821382_third.Designer.cs">
       <DependentUpon>202503080821382_third.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202503101122082_cargomanagerdb.cs" />
+    <Compile Include="Migrations\202503101122082_cargomanagerdb.Designer.cs">
+      <DependentUpon>202503101122082_cargomanagerdb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202503101213249_cargomanagerdb1.cs" />
+    <Compile Include="Migrations\202503101213249_cargomanagerdb1.Designer.cs">
+      <DependentUpon>202503101213249_cargomanagerdb1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -232,6 +242,11 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="images\about us.png" />
+    <Content Include="images\boss.jpeg" />
+    <Content Include="images\employee.png" />
+    <Content Include="images\homepage truck img.png" />
+    <Content Include="images\user.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -295,6 +310,32 @@
     <Content Include="Views\Employees\CityIndex.cshtml" />
     <Content Include="Views\Employees\CustomerIndex.cshtml" />
     <Content Include="Views\Employees\DashBoard.cshtml" />
+    <Content Include="Views\Administrators\Create.cshtml" />
+    <Content Include="Views\Administrators\Delete.cshtml" />
+    <Content Include="Views\Administrators\Details.cshtml" />
+    <Content Include="Views\Administrators\Edit.cshtml" />
+    <Content Include="Views\Administrators\Index.cshtml" />
+    <Content Include="Views\Administrators\EmployeeList.cshtml" />
+    <Content Include="Views\Administrators\CreateEmployee.cshtml" />
+    <Content Include="Views\Administrators\UpdateEmployee.cshtml" />
+    <Content Include="Views\Administrators\SearchEmployee.cshtml" />
+    <Content Include="Views\Administrators\DeleteEmployee.cshtml" />
+    <Content Include="Views\Administrators\CustomerList.cshtml" />
+    <Content Include="Views\Administrators\AddCargoType.cshtml" />
+    <Content Include="Views\Customers\Create.cshtml" />
+    <Content Include="Views\Customers\Delete.cshtml" />
+    <Content Include="Views\Customers\Edit.cshtml" />
+    <Content Include="Views\Customers\Index.cshtml" />
+    <Content Include="Views\Customers\AllOrders.cshtml" />
+    <Content Include="Views\Customers\Orders.cshtml" />
+    <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Customers\Home.cshtml" />
+    <Content Include="Views\Customers\CreateOrder.cshtml" />
+    <Content Include="Views\Customers\TrackOrder.cshtml" />
+    <Content Include="Views\Administrators\CargoTypeList.cshtml" />
+    <Content Include="Views\Administrators\UpdateCargoType.cshtml" />
+    <Content Include="Views\Administrators\AddCity.cshtml" />
+    <Content Include="Views\Customers\Invoice.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -344,6 +385,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202503080821382_third.resx">
       <DependentUpon>202503080821382_third.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202503101122082_cargomanagerdb.resx">
+      <DependentUpon>202503101122082_cargomanagerdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202503101213249_cargomanagerdb1.resx">
+      <DependentUpon>202503101213249_cargomanagerdb1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

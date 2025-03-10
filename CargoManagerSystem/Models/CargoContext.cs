@@ -15,6 +15,8 @@ namespace CargoManagerSystem.Models
         public DbSet<CargoOrder> CargoOrders { get; set; }
         public DbSet<CargoType> CargoTypes { get; set; }
         public DbSet<City> Cities { get; set; }
+        public DbSet<Administrator> Administrators { get; set; }
+        public DbSet<Pricing> Pricings { get; set; }
 
     }
 }

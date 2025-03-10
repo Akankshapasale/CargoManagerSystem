@@ -3,84 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|c:\\users\\asadashi\\source\\repos\\cargomanagersystem1\\cargoclass\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|solutionrelative:cargoclass\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|c:\\users\\asadashi\\source\\repos\\cargomanagersystem1\\cargomanagersystem\\migrations\\202503101213249_cargomanagerdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\migrations\\202503101213249_cargomanagerdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargoclass\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|c:\\users\\asadashi\\source\\repos\\cargomanagersystem1\\cargomanagersystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|c:\\users\\asadashi\\source\\repos\\cargomanagersystem1\\cargomanagersystem\\views\\customers\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\customers\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|c:\\users\\asadashi\\source\\repos\\cargomanagersystem1\\cargomanagersystem\\views\\customers\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\customers\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|c:\\users\\asadashi\\source\\repos\\cargomanagersystem1\\cargoclass\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|solutionrelative:cargoclass\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|c:\\users\\asadashi\\source\\repos\\cargomanagersystem1\\cargoclass\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|solutionrelative:cargoclass\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\cargotypeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\cargotypeindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\cityindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\cityindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\customerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\customerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\editself.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\editself.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\searchcargofare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\searchcargofare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\updateplace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\updateplace.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\updatecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\updatecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\updatecargotype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\updatecargotype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\searchorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\searchorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\views\\employees\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\views\\employees\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargoclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|solutionrelative:cargoclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\models\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\models\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargoclass\\cargofare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|solutionrelative:cargoclass\\cargofare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargoclass\\cargotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD1C81E-99B9-4291-9543-154BFDBF557F}|CargoClass\\CargoClass.csproj|solutionrelative:cargoclass\\cargotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\cargomanagersystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7369D9B-A505-4A3B-9394-01B6F52BFE5D}|CargoManagerSystem\\CargoManagerSystem.csproj|solutionrelative:cargomanagersystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,248 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdatePlace.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\UpdatePlace.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\UpdatePlace.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\UpdatePlace.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\UpdatePlace.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T16:29:17.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SearchOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\SearchOrders.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\SearchOrders.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\SearchOrders.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\SearchOrders.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAwE0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T16:28:23.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SearchCargoFare.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\SearchCargoFare.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\SearchCargoFare.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\SearchCargoFare.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\SearchCargoFare.cshtml",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwBcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T15:13:10.104Z"
+              "DocumentIndex": 0,
+              "Title": "202503101213249_cargomanagerdb1.cs",
+              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Migrations\\202503101213249_cargomanagerdb1.cs",
+              "RelativeDocumentMoniker": "CargoManagerSystem\\Migrations\\202503101213249_cargomanagerdb1.cs",
+              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Migrations\\202503101213249_cargomanagerdb1.cs",
+              "RelativeToolTip": "CargoManagerSystem\\Migrations\\202503101213249_cargomanagerdb1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:13:32.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DashBoard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\DashBoard.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\DashBoard.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\DashBoard.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\DashBoard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Customers\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Customers\\Invoice.cshtml",
+              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Customers\\Invoice.cshtml",
+              "RelativeToolTip": "CargoManagerSystem\\Views\\Customers\\Invoice.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T15:33:23.766Z"
+              "WhenOpened": "2025-03-10T12:07:12.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CargoManagerSystem\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CargoManagerSystem\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:04:59.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CargoOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\CargoOrder.cs",
+              "RelativeDocumentMoniker": "CargoClass\\CargoOrder.cs",
+              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\CargoOrder.cs",
+              "RelativeToolTip": "CargoClass\\CargoOrder.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:08:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\City.cs",
               "RelativeDocumentMoniker": "CargoClass\\City.cs",
               "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\City.cs",
               "RelativeToolTip": "CargoClass\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:42:19.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateCargoType.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\UpdateCargoType.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\UpdateCargoType.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\UpdateCargoType.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\UpdateCargoType.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T08:40:30.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SearchCustomer.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\SearchCustomer.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\SearchCustomer.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\SearchCustomer.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\SearchCustomer.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAwBgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T07:11:47.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\Employee.cs",
-              "RelativeDocumentMoniker": "CargoClass\\Employee.cs",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\Employee.cs",
-              "RelativeToolTip": "CargoClass\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T07:06:23.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CargoType.cs",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\CargoType.cs",
-              "RelativeDocumentMoniker": "CargoClass\\CargoType.cs",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\CargoType.cs",
-              "RelativeToolTip": "CargoClass\\CargoType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T07:00:40.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CargoFare.cs",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\CargoFare.cs",
-              "RelativeDocumentMoniker": "CargoClass\\CargoFare.cs",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\CargoFare.cs",
-              "RelativeToolTip": "CargoClass\\CargoFare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T06:59:54.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T06:56:02.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EditSelf.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\EditSelf.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\EditSelf.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\EditSelf.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\EditSelf.cshtml",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAwGoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T06:31:52.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CargoTypeIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\CargoTypeIndex.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\CargoTypeIndex.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\CargoTypeIndex.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\CargoTypeIndex.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T18:04:25.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CityIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\CityIndex.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\CityIndex.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\CityIndex.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\CityIndex.cshtml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAwGwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T17:52:39.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\CustomerIndex.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\CustomerIndex.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\CustomerIndex.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\CustomerIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T17:52:19.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CargoManagerSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T17:38:34.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\Customer.cs",
-              "RelativeDocumentMoniker": "CargoClass\\Customer.cs",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoClass\\Customer.cs",
-              "RelativeToolTip": "CargoClass\\Customer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T17:38:05.752Z",
+              "WhenOpened": "2025-03-10T11:05:56.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CargoContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Models\\CargoContext.cs",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Models\\CargoContext.cs",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Models\\CargoContext.cs",
-              "RelativeToolTip": "CargoManagerSystem\\Models\\CargoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T17:03:22.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "CargoManagerSystem\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:56:19.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateCustomer.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\UpdateCustomer.cshtml",
-              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Employees\\UpdateCustomer.cshtml",
-              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Employees\\UpdateCustomer.cshtml",
-              "RelativeToolTip": "CargoManagerSystem\\Views\\Employees\\UpdateCustomer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Customers\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "CargoManagerSystem\\Views\\Customers\\CreateOrder.cshtml",
+              "ToolTip": "C:\\Users\\ASADASHI\\source\\repos\\CargoManagerSystem1\\CargoManagerSystem\\Views\\Customers\\CreateOrder.cshtml",
+              "RelativeToolTip": "CargoManagerSystem\\Views\\Customers\\CreateOrder.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T18:05:36.486Z"
+              "WhenOpened": "2025-03-10T11:03:25.693Z",
+              "EditorCaption": ""
             }
           ]
         }

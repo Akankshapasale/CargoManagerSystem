@@ -2,32 +2,264 @@
     ViewBag.Title = "Home Page";
 }
 
-<main>
-    <section class="row" aria-labelledby="aspnetTitle">
-        <h1 id="title">ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
-    </section>
+<style>
+    /* Set white background */
+    body {
+        background-color: white;
+        color: black;
+    }
 
-    <div class="row">
-        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-            <h2 id="gettingStartedTitle">Getting started</h2>
-            <p>
-                ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-                enables a clean separation of concerns and gives you full control over markup
-                for enjoyable, agile development.
-            </p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="librariesTitle">
-            <h2 id="librariesTitle">Get more libraries</h2>
-            <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="hostingTitle">
-            <h2 id="hostingTitle">Web Hosting</h2>
-            <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
-        </section>
+    /* Hero Section */
+    .hero-section {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    /* Text Box Container */
+    .text-container {
+        text-align: left;
+        max-width: 100%;
+    }
+
+    /* Typing Effect for Line 1 */
+    .hero-text-1 {
+        font-size: 3rem;
+        font-weight: bold;
+        color: #333;
+        overflow: hidden;
+        white-space: nowrap;
+        width: 0;
+        display: inline-block;
+        animation: typing1 2s steps(20, end) forwards;
+    }
+
+    /* Typing Effect for Line 2 (With Cursor) */
+    .hero-text-2 {
+        font-size: 3rem;
+        font-weight: bold;
+        color: #333;
+        overflow: hidden;
+        white-space: nowrap;
+        width: 0;
+        display: inline-block;
+        border-right: 3px solid #333; /* Cursor effect */
+        animation: typing2 2s steps(20, end) forwards, blink 0.75s step-end infinite;
+        animation-delay: 2s; /* Delays second line until first line is done */
+    }
+
+    /* Typing Animations */
+    @@keyframes typing1 {
+        from {
+            width: 0;
+        }
+
+        to {
+            width: 100%;
+        }
+    }
+
+    @@keyframes typing2 {
+        from {
+            width: 0;
+        }
+
+        to {
+            width: 100%;
+        }
+    }
+
+    /* Blinking Cursor */
+    @@keyframes blink {
+        50% {
+            border-color: transparent;
+        }
+    }
+
+    /* Truck Image */
+    .truck-image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+
+    .truck-image {
+        width: 100%;
+        max-width: 600px; /* Larger truck image */
+        height: auto;
+    }
+
+    /* Partition line */
+    .section-divider {
+        width: 100%;
+        height: 4px;
+        background-color: #FFC107; /* Gold separator */
+        margin: 50px 0;
+    }
+
+
+
+    /* Partition line */
+    .section-divider {
+        width: 100%;
+        height: 4px;
+        background-color: #FFC107; /* Gold separator */
+        margin: 50px 0;
+    }
+
+    /* Role Selection Section */
+    .role-selection-container {
+        text-align: center;
+        padding: 50px 0;
+        background-color: #F4F4F4; /* Light gray background */
+    }
+
+    .role-selection {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 60px;
+        margin-top: 30px;
+    }
+
+    /* Customer Image - Larger Size */
+    .user-image-container {
+        text-align: center;
+    }
+
+        /* Uniform Image Size for All Roles */
+        .role-image-container img,
+        .user-image-container img {
+            width: 180px;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: transform 0.3s ease-in-out;
+            border: 5px solid #007BFF; /* Blue border */
+        }
+
+            .role-image-container img:hover,
+            .user-image-container img:hover {
+                transform: scale(1.1);
+            }
+
+
+            .user-image-container img:hover {
+                transform: scale(1.1);
+            }
+
+        .user-image-container div {
+            font-weight: bold;
+            margin-top: 10px;
+            font-size: 1.2rem;
+        }
+
+    /* Employee and Admin Images */
+    .role-image-container {
+        text-align: center;
+    }
+        /* Uniform Image Size for All Roles */
+        .role-image-container img,
+        .user-image-container img {
+            width: 180px;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: transform 0.3s ease-in-out;
+            border: 5px solid #007BFF; /* Blue border */
+        }
+
+            .role-image-container img:hover,
+            .user-image-container img:hover {
+                transform: scale(1.1);
+            }
+
+
+        .role-image-container div {
+            font-weight: bold;
+            margin-top: 10px;
+            font-size: 1.1rem;
+        }
+</style>
+
+<main class="container">
+    <div class="row hero-section">
+        <!-- Left Section: Text -->
+        <div class="col-md-6 text-container">
+            <h1 class="hero-text-1">Your Solution</h1>
+            <h1 class="hero-text-2">to Transportation</h1>
+        </div>
+
+        <!-- Right Section: Truck Image -->
+        <div class="col-md-6 truck-image-container">
+            <img src="~/images/homepage truck img.png" alt="Truck Image" class="truck-image">
+        </div>
+    </div>
+
+    <!-- Partition Line -->
+    <div class="section-divider"></div>
+
+    <div class="container mt-5">
+        <div class="row align-items-center">
+            <!-- Image Section (Left) -->
+            <div class="col-md-6">
+                <img src="~/images/about us.png" alt="Cargo Management" class="img-fluid rounded shadow-lg">
+            </div>
+
+            <!-- About Us Section (Right) -->
+            <div class="col-md-6">
+                <h2 class="text-primary">About Us</h2>
+                <p>
+                    Welcome to **Cargo Manager System**, your trusted solution for managing cargo logistics efficiently.
+                    Our platform provides seamless tracking, order management, and secure handling of shipments for businesses of all sizes.
+                </p>
+                <h4>📞 Contact Us</h4>
+                <ul class="list-unstyled">
+                    <li><b>Email:</b> support@cargomanager.com</li>
+                    <li><b>Phone:</b> +91 98765 43210</li>
+                    <li><b>Location:</b> Bangalore, India</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Partition Line -->
+    <div class="section-divider"></div>
+
+
+    <!-- Role Selection Section -->
+    <div class="role-selection-container">
+        <h2>Select Your Role</h2>
+        <div class="role-selection">
+            <!-- Customer (Redirects to Register Page) -->
+            <div class="user-image-container">
+                <a href="@Url.Action("Register", "Account")">
+                    <img src="~/images/user.png" alt="Customer">
+                </a>
+                <div>Customer</div>
+            </div>
+
+            <!-- Admin (Redirects to Login Page) -->
+            <div class="role-image-container">
+                <a href="@Url.Action("Login", "Account")">
+                    <img src="~/images/employee.png" alt="Admin">
+                </a>
+                <div>Employee</div>
+            </div>
+
+            <!-- Employee (Redirects to Login Page) -->
+            <div class="role-image-container">
+                <a href="@Url.Action("Login", "Account")">
+                    <img src="~/images/boss.jpeg" alt="Employee">
+                </a>
+                <div>Admin</div>
+            </div>
+        </div>
     </div>
 </main>
